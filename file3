@@ -1,2 +1,5 @@
 this is file3
+<<<<<<< HEAD
 file3 upgraded
+=======
+>>>>>>> e68286fbcfb0cf0e9adb5fe6e41f20dbdf589997
